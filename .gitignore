@@ -1,0 +1,5 @@
+node_modules/
+undivided.db
+.env
+*.log
+.DS_Store
